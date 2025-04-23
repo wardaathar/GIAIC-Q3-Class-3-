@@ -23,6 +23,7 @@ Explored both:
 
 - 🔹 **Explicit Type Casting** (manual conversion)
 - 🔹 **Implicit Type Casting** (automatic by Python)
+- Also i submit class assignment in this Repo
 
 ```python
 # Example:
@@ -32,6 +33,9 @@ c = a + b  # Implicit casting: int + float → float
 Today’s session was all about:
 
 Building a strong foundation in Python data types
+
+
+
 
 Writing clean, optimized functions
 
